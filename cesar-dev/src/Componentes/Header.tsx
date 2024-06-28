@@ -13,7 +13,7 @@ function Header(){
                                 <i className="fa-solid fa-bars fa-lg"></i>
                             </button>
                         </div>
-                        <div className="col collapse">
+                        <div className="col collapse justify-content-end">
                             <ul className="navbar justify-content-end">
                                 <li><a href="#">INICIO</a></li>
                                 <li><a href="#">SERVICIOS</a></li>
